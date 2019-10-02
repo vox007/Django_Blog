@@ -14,7 +14,7 @@ TEMPLATES_DIR = os.path.join(BASE_DIR,'templates')
 SECRET_KEY = '2c*fjbff-3kcwquwdp8e#n63jp6_0udidnxisdopvj8eq@im-$'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['djangoxblog1.herokuapp.com']
 
